@@ -1,0 +1,7 @@
+C:\Users\Dk\source\repos\InterfaceDesign\DentalReminder\DentalReminder\bin\Debug\DentalReminder.exe.config
+C:\Users\Dk\source\repos\InterfaceDesign\DentalReminder\DentalReminder\bin\Debug\DentalReminder.exe
+C:\Users\Dk\source\repos\InterfaceDesign\DentalReminder\DentalReminder\bin\Debug\DentalReminder.pdb
+C:\Users\Dk\source\repos\InterfaceDesign\DentalReminder\DentalReminder\obj\Debug\DentalReminder.csprojAssemblyReference.cache
+C:\Users\Dk\source\repos\InterfaceDesign\DentalReminder\DentalReminder\obj\Debug\DentalReminder.csproj.CoreCompileInputs.cache
+C:\Users\Dk\source\repos\InterfaceDesign\DentalReminder\DentalReminder\obj\Debug\DentalReminder.exe
+C:\Users\Dk\source\repos\InterfaceDesign\DentalReminder\DentalReminder\obj\Debug\DentalReminder.pdb
